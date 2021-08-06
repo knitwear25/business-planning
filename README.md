@@ -1,2 +1,3 @@
 # knitwear
-knitting project
+BUSINESS MODEL
+-------------
